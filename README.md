@@ -10,7 +10,7 @@ Welcome to **Capybara Game**, a lighthearted web game where your only mission is
 
 <br>
 
-Play it here: [Capybara Game](https://capybara-green.vercel.app/)
+Play it here: [Capybara Game](https://capybara-game.vercel.app/)
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
